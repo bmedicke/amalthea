@@ -18,10 +18,11 @@
 
 #### perlin-noise
 
-![perlin noise example 0](samples/perlin-noise-00.png)
-![perlin noise example 1](samples/perlin-noise-01.png)
-![perlin noise example 2](samples/perlin-noise-02.png)
-![perlin noise example 3](samples/perlin-noise-03.png)
+![perlin noise example 3](samples/perlin-noise-03.svg)
+![perlin noise example 0](samples/perlin-noise-00.svg)
+![perlin noise example 4](samples/perlin-noise-04.svg)
+![perlin noise example 2](samples/perlin-noise-02.svg)
+![perlin noise example 1](samples/perlin-noise-01.svg)
 
 ## setup
 
