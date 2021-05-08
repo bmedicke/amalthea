@@ -1,5 +1,14 @@
 # Amalthea - collection of Jupyter notebooks
 
+
+<!-- vim-markdown-toc GFM -->
+
+* [creative coding](#creative-coding)
+  * [perlin-noise](#perlin-noise)
+* [venv setup](#venv-setup)
+
+<!-- vim-markdown-toc -->
+
 ## creative coding
 
 ### perlin-noise
