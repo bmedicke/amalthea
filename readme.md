@@ -6,6 +6,9 @@
 * [the notebooks](#the-notebooks)
   * [creative coding](#creative-coding)
     * [perlin-noise](#perlin-noise)
+  * [demos](#demos)
+    * [speedtest](#speedtest)
+  * [features](#features)
 * [setup & development](#setup--development)
   * [venv](#venv)
   * [requirement management](#requirement-management)
@@ -25,6 +28,17 @@
 ![perlin noise example 2](samples/perlin-noise-02.svg)
 ![perlin noise example 1](samples/perlin-noise-01.svg)
 ![perlin noise example 5](samples/perlin-noise-05.svg)
+
+### demos
+
+#### speedtest
+
+This notebook analysis a csv file created by a script running speedtest-cli.
+
+![speedtest sample 0](samples/speedtest00.png)
+![speedtest sample 1](samples/speedtest01.png)
+
+### features
 
 ## setup & development
 
