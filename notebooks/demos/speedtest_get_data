@@ -1,0 +1,13 @@
+#!/usr/bin/env zsh
+
+turns=40
+samples=5
+
+speedtest --csv-header > speedtest.csv # create header.
+
+repeat $turns {
+  # start speedtest marathon, this might take a while:
+  repeat $samples {speedtest --server 5351 --csv >> speedtest.csv}
+  repeat $samples {speedtest --server 1738 --csv >> speedtest.csv}
+  repeat $samples {speedtest --server 6260 --csv >> speedtest.csv}
+}
