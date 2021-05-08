@@ -7,6 +7,7 @@
   * [creative coding](#creative-coding)
     * [perlin-noise](#perlin-noise)
   * [demos](#demos)
+    * [frequency-analysis-caesar-cipher](#frequency-analysis-caesar-cipher)
     * [euclidean-algorithm](#euclidean-algorithm)
     * [speedtest](#speedtest)
   * [features](#features)
@@ -31,6 +32,13 @@
 ![perlin noise example 5](samples/perlin-noise-05.svg)
 
 ### demos
+
+#### frequency-analysis-caesar-cipher
+
+Breaking a caesar ciphre by using a frequency analysis to calculate the key.
+
+![frequency-analysis sample](samples/frequency-analysis.png)
+![caesar-cipher sample](samples/caesar-cipher.png)
 
 #### euclidean-algorithm
 
