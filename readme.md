@@ -1,5 +1,11 @@
 # Amalthea - collection of Jupyter notebooks
 
+## creative coding
+
+### perlin noise
+
+![perlin noise example 0](samples/perlin-noise-00.png)
+
 ## venv setup
 
 ```sh
