@@ -6,7 +6,9 @@
 * [the notebooks](#the-notebooks)
   * [creative coding](#creative-coding)
     * [perlin-noise](#perlin-noise)
-* [venv setup](#venv-setup)
+* [setup](#setup)
+  * [venv](#venv)
+  * [requirement management](#requirement-management)
 
 <!-- vim-markdown-toc -->
 
@@ -21,7 +23,9 @@
 ![perlin noise example 2](samples/perlin-noise-02.png)
 ![perlin noise example 3](samples/perlin-noise-03.png)
 
-## venv setup
+## setup
+
+### venv
 
 ```sh
 # initial setup:
@@ -37,4 +41,18 @@ jupyter notebook notebooks/
 
 # if you don't want your browser to open add the flag: --no-browser
 # to access the notebook from another device add: --ip=0.0.0.0
+```
+
+### requirement management
+
+**installing libraries from git repos that are not on PyPI**
+
+```sh
+pip install -e git+https://github.com/pvigier/perlin-numpy#egg=perlin-numpy
+```
+
+**updating the `requirements.txt` file after adding or updating libs**
+
+```sh
+pip freeze > requirements.txt
 ```
