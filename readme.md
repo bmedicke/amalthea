@@ -7,6 +7,7 @@
   * [creative coding](#creative-coding)
     * [perlin-noise](#perlin-noise)
   * [demos](#demos)
+    * [euclidean-algorithm](#euclidean-algorithm)
     * [speedtest](#speedtest)
   * [features](#features)
 * [setup & development](#setup--development)
@@ -30,6 +31,13 @@
 ![perlin noise example 5](samples/perlin-noise-05.svg)
 
 ### demos
+
+#### euclidean-algorithm
+
+This notebooks calculates the greatest common divisor and colors numbers
+to make it easier to keep track of the steps.
+
+![euclidean-algorithm sample](samples/euclidean-algorithm.png)
 
 #### speedtest
 
