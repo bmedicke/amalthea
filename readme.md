@@ -10,7 +10,7 @@
     * [frequency-analysis-caesar-cipher](#frequency-analysis-caesar-cipher)
     * [euclidean-algorithm](#euclidean-algorithm)
     * [speedtest](#speedtest)
-  * [features](#features)
+  * [tutorials](#tutorials)
 * [setup & development](#setup--development)
   * [venv](#venv)
   * [requirement management](#requirement-management)
@@ -54,7 +54,9 @@ This notebook analysis a csv file created by a script running speedtest-cli to c
 ![speedtest sample 0](samples/speedtest00.png)
 ![speedtest sample 1](samples/speedtest01.png)
 
-### features
+### tutorials
+
+A series of tutorials covering Jupyter and useful libraries.
 
 ## setup & development
 
