@@ -3,15 +3,18 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [creative coding](#creative-coding)
-  * [perlin-noise](#perlin-noise)
+* [the notebooks](#the-notebooks)
+  * [creative coding](#creative-coding)
+    * [perlin-noise](#perlin-noise)
 * [venv setup](#venv-setup)
 
 <!-- vim-markdown-toc -->
 
-## creative coding
+## the notebooks
 
-### perlin-noise
+### creative coding
+
+#### perlin-noise
 
 ![perlin noise example 0](samples/perlin-noise-00.png)
 ![perlin noise example 1](samples/perlin-noise-01.png)
