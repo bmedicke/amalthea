@@ -36,6 +36,7 @@ numpy==1.20.2
 packaging==20.9
 pandocfilters==1.4.3
 parso==0.8.2
+-e git+https://github.com/pvigier/perlin-numpy@6f077f811f5708e504732c26dee8f2015b95da0c#egg=perlin_numpy
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.2.0

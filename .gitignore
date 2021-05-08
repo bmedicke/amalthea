@@ -198,4 +198,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
+# custom to this repo:
+foo.png
