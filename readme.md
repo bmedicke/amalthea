@@ -5,6 +5,9 @@
 ### perlin noise
 
 ![perlin noise example 0](samples/perlin-noise-00.png)
+![perlin noise example 1](samples/perlin-noise01.png)
+![perlin noise example 2](samples/perlin-noise02.png)
+![perlin noise example 3](samples/perlin-noise03.png)
 
 ## venv setup
 
