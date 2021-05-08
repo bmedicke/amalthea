@@ -41,7 +41,7 @@ to make it easier to keep track of the steps.
 
 #### speedtest
 
-This notebook analysis a csv file created by a script running speedtest-cli.
+This notebook analysis a csv file created by a script running speedtest-cli to compare internet provider speeds.
 
 ![speedtest sample 0](samples/speedtest00.png)
 ![speedtest sample 1](samples/speedtest01.png)
