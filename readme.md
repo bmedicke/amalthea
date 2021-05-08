@@ -23,6 +23,7 @@
 ![perlin noise example 4](samples/perlin-noise-04.svg)
 ![perlin noise example 2](samples/perlin-noise-02.svg)
 ![perlin noise example 1](samples/perlin-noise-01.svg)
+![perlin noise example 5](samples/perlin-noise-05.svg)
 
 ## setup
 
