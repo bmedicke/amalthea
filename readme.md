@@ -2,7 +2,7 @@
 
 ## creative coding
 
-### perlin noise
+### perlin-noise
 
 ![perlin noise example 0](samples/perlin-noise-00.png)
 ![perlin noise example 1](samples/perlin-noise-01.png)
