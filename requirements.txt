@@ -58,6 +58,7 @@ scipy==1.6.3
 seaborn==0.11.1
 Send2Trash==1.5.0
 six==1.16.0
+termcolor==1.1.0
 terminado==0.9.4
 testpath==0.4.4
 tornado==6.1
