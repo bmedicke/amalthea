@@ -1,4 +1,4 @@
-# Amalthea - collection of Jupyter notebooks for JupyterLab
+# Amalthea - notebooks for JupyterLab
 
 <!-- vim-markdown-toc GFM -->
 
