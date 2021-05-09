@@ -38,6 +38,12 @@
 
 Cross-notebook communication via MQTT.
 
+Publishing a message:
+![mqtt pubisher sample](samples/mqtt-publisher.png)
+
+Receiving a message from a subscribed topci:
+![mqtt subscriber sample](samples/mqtt-subscriber.png)
+
 #### frequency-analysis-caesar-cipher
 
 Breaking a caesar ciphre by using a frequency analysis to calculate the key.
