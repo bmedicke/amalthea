@@ -158,13 +158,13 @@ pip freeze > requirements.txt
 
 Most of these are in the PyPI and thus can be installed with `pip`. For the rest the pip-egg command will be listed.
 
-* ipympl
+* [ipympl](https://github.com/matplotlib/ipympl)
   * for `%matplotlib widget`
-* matplotlib
-* paho-mqtt
-* pandas
+* [matplotlib](https://github.com/matplotlib/matplotlib)
+* [paho-mqtt](https://github.com/eclipse/paho.mqtt.python)
+* [pandas](https://github.com/pandas-dev/pandas)
 * [perlin-numpy](https://github.com/pvigier/perlin-numpy)
   * `pip install -e git+https://github.com/pvigier/perlin-numpy#egg=perlin-numpy`
-* scipy
-* seaborn
-* termcolor
+* [scipy](https://github.com/scipy/scipy)
+* [seaborn](https://github.com/mwaskom/seaborn)
+* [termcolor](https://pypi.org/project/termcolor/)
