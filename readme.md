@@ -7,6 +7,7 @@
   * [creative coding](#creative-coding)
     * [perlin-noise](#perlin-noise)
   * [demos](#demos)
+    * [mqtt-publisher & mqtt-subscriber](#mqtt-publisher--mqtt-subscriber)
     * [frequency-analysis-caesar-cipher](#frequency-analysis-caesar-cipher)
     * [euclidean-algorithm](#euclidean-algorithm)
     * [speedtest](#speedtest)
@@ -32,6 +33,10 @@
 ![perlin noise example 5](samples/perlin-noise-05.svg)
 
 ### demos
+
+#### mqtt-publisher & mqtt-subscriber
+
+Cross-notebook communication via MQTT.
 
 #### frequency-analysis-caesar-cipher
 
