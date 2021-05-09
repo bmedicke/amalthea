@@ -1,5 +1,4 @@
-# Amalthea - collection of Jupyter notebooks
-
+# Amalthea - collection of Jupyter notebooks for JupyterLab
 
 <!-- vim-markdown-toc GFM -->
 
@@ -14,8 +13,10 @@
   * [tutorials](#tutorials)
 * [setup & development](#setup--development)
   * [venv](#venv)
+  * [custom shortcuts and settings for JupyterLab](#custom-shortcuts-and-settings-for-jupyterlab)
+  * [custom shortcuts and settings for Jupyter Notebook](#custom-shortcuts-and-settings-for-jupyter-notebook)
   * [requirement management](#requirement-management)
-  * [custom shortcuts and settings](#custom-shortcuts-and-settings)
+  * [used libraries](#used-libraries)
 
 <!-- vim-markdown-toc -->
 
@@ -89,21 +90,9 @@ jupyter notebook notebooks/
 # to access the notebook from another device add: --ip=0.0.0.0
 ```
 
-### requirement management
+### custom shortcuts and settings for JupyterLab
 
-**installing libraries from git repos that are not on PyPI**
-
-```sh
-pip install -e git+https://github.com/pvigier/perlin-numpy#egg=perlin-numpy
-```
-
-**updating the `requirements.txt` file after adding or updating libs**
-
-```sh
-pip freeze > requirements.txt
-```
-
-### custom shortcuts and settings
+### custom shortcuts and settings for Jupyter Notebook
 
 Edit the file: `~/.jupyter/nbconfig/notebook.json`.
 
@@ -150,3 +139,32 @@ Edit the file: `~/.jupyter/nbconfig/notebook.json`.
   }
 }
 ```
+
+### requirement management
+
+**installing libraries from git repos that are not on PyPI**
+
+```sh
+pip install -e git+https://github.com/pvigier/perlin-numpy#egg=perlin-numpy
+```
+
+**updating the `requirements.txt` file after adding or updating libs**
+
+```sh
+pip freeze > requirements.txt
+```
+
+### used libraries
+
+Most of these are in the PyPI and thus can be installed with `pip`. For the rest the pip-egg command will be listed.
+
+* ipympl
+  * for `%matplotlib widget`
+* matplotlib
+* paho-mqtt
+* pandas
+* [perlin-numpy](https://github.com/pvigier/perlin-numpy)
+  * `pip install -e git+https://github.com/pvigier/perlin-numpy#egg=perlin-numpy`
+* scipy
+* seaborn
+* termcolor
