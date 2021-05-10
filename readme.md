@@ -1,6 +1,8 @@
 ![amalthea logo](samples/amalthea-logo.png)
 # Amalthea - notebooks for JupyterLab
 
+## table of contents
+
 <!-- vim-markdown-toc GFM -->
 
 * [the notebooks](#the-notebooks)
