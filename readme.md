@@ -40,7 +40,7 @@
 
 #### mqtt-publisher & mqtt-subscriber
 
-Cross-notebook communication via MQTT.
+Cross-notebook communication via MQTT. For a practical example see [bmedicke/quantum_cryptography](https://github.com/bmedicke/quantum_cryptography).
 
 Publishing a message:
 ![mqtt pubisher sample](samples/mqtt-publisher.png)
