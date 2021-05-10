@@ -1,3 +1,4 @@
+![amalthea logo](samples/amalthea-logo.svg)
 # Amalthea - notebooks for JupyterLab
 
 <!-- vim-markdown-toc GFM -->
