@@ -19,7 +19,7 @@
   * [custom shortcuts and settings for JupyterLab](#custom-shortcuts-and-settings-for-jupyterlab)
   * [custom shortcuts and settings for Jupyter Notebook](#custom-shortcuts-and-settings-for-jupyter-notebook)
   * [requirement management](#requirement-management)
-  * [used libraries](#used-libraries)
+* [used libraries](#used-libraries)
 
 <!-- vim-markdown-toc -->
 
@@ -157,7 +157,7 @@ pip install -e git+https://github.com/pvigier/perlin-numpy#egg=perlin-numpy
 pip freeze > requirements.txt
 ```
 
-### used libraries
+## used libraries
 
 Most of these are in the PyPI and thus can be installed with `pip`. For the rest the pip-egg command will be listed.
 
