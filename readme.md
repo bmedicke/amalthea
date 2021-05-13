@@ -184,3 +184,12 @@ Most of these are in the PyPI and thus can be installed with `pip`. For the rest
 * [scipy](https://github.com/scipy/scipy)
 * [seaborn](https://github.com/mwaskom/seaborn)
 * [termcolor](https://pypi.org/project/termcolor/)
+
+---
+
+Installation without using `requirements.txt`:
+
+```sh
+pip install matplotlib paho-mqtt pandas scipy seaborn termcolor ipympl jupyterlab\
+    -e git+https://github.com/pvigier/perlin-numpy#egg=perlin-numpy
+```
