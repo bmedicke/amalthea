@@ -184,6 +184,7 @@ Most of these are in the PyPI and thus can be installed with `pip`. For the rest
 * [scipy](https://github.com/scipy/scipy)
 * [seaborn](https://github.com/mwaskom/seaborn)
 * [termcolor](https://pypi.org/project/termcolor/)
+* [ipywidgets](https://github.com/jupyter-widgets/ipywidgets)
 
 ---
 
