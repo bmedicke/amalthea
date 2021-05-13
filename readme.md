@@ -95,6 +95,19 @@ jupyter notebook notebooks/
 
 ### custom shortcuts and settings for JupyterLab
 
+```json
+{
+  "shortcuts": [
+    {
+      "command": "notebook:run-cell",
+      "keys": [ ";" ],
+      "selector": ".jp-Notebook:focus"
+    }
+  ]
+}
+
+```
+
 ### custom shortcuts and settings for Jupyter Notebook
 
 Edit the file: `~/.jupyter/nbconfig/notebook.json`.
