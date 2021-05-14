@@ -158,7 +158,7 @@ Edit the file: `~/.jupyter/nbconfig/notebook.json`.
 
 ### requirement management
 
-**installing libraries from git repos that are not on PyPI**
+**installing libraries from git repos that are not on PyPi**
 
 ```sh
 pip install -e git+https://github.com/pvigier/perlin-numpy#egg=perlin-numpy
@@ -172,7 +172,7 @@ pip freeze > requirements.txt
 
 ## used libraries
 
-Most of these are in the PyPI and thus can be installed with `pip`. For the rest the pip-egg command will be listed.
+Most of these are in the PyPi and thus can be installed with `pip`. For the rest the pip-egg command will be listed.
 
 * [ipympl](https://github.com/matplotlib/ipympl)
   * for `%matplotlib widget`
