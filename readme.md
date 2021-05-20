@@ -12,6 +12,7 @@
     * [mqtt-publisher & mqtt-subscriber](#mqtt-publisher--mqtt-subscriber)
     * [frequency-analysis-caesar-cipher](#frequency-analysis-caesar-cipher)
     * [euclidean-algorithm](#euclidean-algorithm)
+    * [pomodoro](#pomodoro)
     * [speedtest](#speedtest)
   * [tutorials](#tutorials)
 * [setup & development](#setup--development)
@@ -61,6 +62,12 @@ This notebooks calculates the greatest common divisor and colors numbers
 to make it easier to keep track of the steps.
 
 ![euclidean-algorithm sample](samples/euclidean-algorithm.png)
+
+#### pomodoro
+
+An image showing the current status in a Pomodoro cycle is displayed (via Markdown output). The data is read from an csv file and automatically updates when it changes.
+
+![pomodoro_working](samples/pomodoro.gif)
 
 #### speedtest
 
