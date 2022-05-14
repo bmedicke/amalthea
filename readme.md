@@ -109,11 +109,22 @@ jupyter notebook notebooks/
       "command": "notebook:run-cell",
       "keys": [ ";" ],
       "selector": ".jp-Notebook:focus"
-    }
+    },
+      {
+      "command": "kernelmenu:restart-and-clear",
+           "keys": [ "Ctrl L" ],
+          "selector": ".jp-Notebook:focus"
+      },
+            {
+      "command": "notebook:restart-run-all",
+           "keys": [ "Ctrl Shift R" ],
+          "selector": ".jp-Notebook:focus"
+      }
   ]
 }
-
 ```
+
+* list of commands: https://jupyterlab.readthedocs.io/en/latest/user/commands.html
 
 ### custom shortcuts and settings for Jupyter Notebook
 
